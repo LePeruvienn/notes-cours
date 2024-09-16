@@ -1,0 +1,6 @@
+Job fair exercice
+# About US
+
+Founded in 2018 by Paul LENCZNER and Maeva FAUCON, **WebGames** is youngs entrepener specialized in the developement, the acquisition and the marketing of web and mobile apps. Focused on the developement of video games, more precisely Instant Gaming games or .IO games, that now have millions active players. We achieve to make popular more than 40 applications, cybersecurity methods and, softwares, marketing strategy, that now attract more than 150 millions of people around the world since launch. Today some games have peaks at 4 500 players playing simultaneously ! Our developer team is managing over thousands of server around the world !
+
+Currently, **WebGames** is working there new project, *Invoking.AI* ! *Invoking.AI* is a revolutionary tool who makes everyone abe to create there dream game. With a AI assitant tool and a "*What you get is What you see*" interface, makes games will never been that easy, everyone will be able to do it ! Follow us to learn more about *Invoking.AI*.
