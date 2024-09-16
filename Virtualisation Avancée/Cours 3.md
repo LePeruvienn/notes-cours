@@ -53,3 +53,42 @@ C4est ne distribution allégée de Kubernetes, qui assure une performance maixma
 - Hyper opti pour les contenaire et cluster
 
 
+### Kubectl
+
+Commandes qui permettes de controlé les cluster kubernetes
+
+- **kubectl get** : liste les ressources
+- **kubectl describe** : affiches les infos sur une ressources
+- **kubectl logs** : affches le journale d'un conteneur dans un pod
+- **kubectl exec** : execute une commande sur un contener dans un pod
+
+
+### Utiliser kube ctl pour créer un déloiement
+
+
+- kubectl create deployment nom --image=nom-images
+- kubectl create deployment ngix-dep --image=nginx
+  
+- kubectl get deployments
+- kube describe deployment ngnix-dep
+- kube logs deployment ngnix-dep
+- kubectl delete deployment nginx-dep
+
+
+
+C'est mieux de créer une deployment à chaque début de projet, car créer un deployment créer un cluster en meme temps
+
+
+### Les fichiers YAML
+
+- Le déploiement des Kubernetes Yaml conteint des princapes spécifications suivantes
+	- **apiVersion** => apps/v1 (la version stable)
+	- **Kind**
+	- **metadata**
+	- **spec**
+
+*(Voir diapo pour exemple)*
+
+Tout les diapo sont sur moodle (cours 2)
+
+
