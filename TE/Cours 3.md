@@ -102,4 +102,11 @@ Il ya aussi un group de controle ou on leurs fait une experience similaire mais 
 - L'experience à été menée il ya 35 ans
 
 
+# TRAVAIL DISCRIMIATION A L'EMBAUCHE DES PERSONNES MAGHREBINE
 
+
+doc 1 : https://www.vie-publique.fr/en-bref/288844-discriminations-marche-travail-personnes-dorigine-maghrebine
+
+doc diplome : https://www.dialogue-social.fr/articles-par-themes/article/lobtention-dun-diplome-eleve-nempeche-pas-la-discrimination-sur-lorigine-a-lembauche
+
+doc 2 :
