@@ -1,6 +1,6 @@
 Chef de projet :
 - écoute du client
-- curieux, prise d'initative
+- curieux, prise d'initiative
 - guider, se mettre à la place des clients
 
 # Partie 1 : Qu'est-ce que le management ?
