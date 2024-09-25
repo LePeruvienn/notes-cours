@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"5735d4686d99896d","type":"text","text":"Ecart ?","x":-153,"y":50,"width":250,"height":60},
+		{"id":"bfed1fc6daa66fd8","type":"text","text":"Diagnostic\n(où est-on ?)","x":-345,"y":-109,"width":250,"height":60},
+		{"id":"1fbb06ea1238d9f8","type":"text","text":"Objectifs\n(où veut on aller)","x":75,"y":-109,"width":250,"height":60},
+		{"id":"ce186936c8eedebd","type":"text","text":"Forces et faiblesses de l'équipe\n(que savons-nous faire)","x":-625,"y":-49,"width":250,"height":95},
+		{"id":"3b1f1492bb568f93","type":"text","text":"Opportunités et menaces de l'environnement\n(que pouvons nous faire)","x":375,"y":-50,"width":250,"height":96}
+	],
+	"edges":[
+		{"id":"be9aa6989447c7f5","fromNode":"bfed1fc6daa66fd8","fromSide":"bottom","toNode":"5735d4686d99896d","toSide":"left"},
+		{"id":"5cb95ba7709e45b7","fromNode":"1fbb06ea1238d9f8","fromSide":"bottom","toNode":"5735d4686d99896d","toSide":"right"},
+		{"id":"c3f18d14d44d9a0d","fromNode":"ce186936c8eedebd","fromSide":"top","toNode":"bfed1fc6daa66fd8","toSide":"left"},
+		{"id":"eea944b016872a43","fromNode":"3b1f1492bb568f93","fromSide":"top","toNode":"1fbb06ea1238d9f8","toSide":"right"}
+	]
+}
