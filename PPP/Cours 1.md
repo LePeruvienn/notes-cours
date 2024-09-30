@@ -44,22 +44,22 @@ Sélection du meilleur candidat par les recruteurs par des considérations profe
 - Déroulement du stage
 	- Comment s'est passer votre intégration au sein de l'entreprise ?
 	- Qu'elles étaient vos missions principales durant ce stage ?
-	- Pouvez vous d'écrire un projet sur lequel vous avez travaillé et votre rôle dans celui-ci
-	- Qu'elles technologies ou langages de programmation avez-vous utilisées, était ce la première fois que vous les utilisiez  ?
+	- Pouvez-vous d'écrire un projet sur lequel vous avez travaillé et votre rôle dans celui-ci
+	- Qu'elles technologies ou langages de programmation avez-vous utilisées, était-ce la première fois que vous les utilisiez ?
 	- Comment se déroulait une journée type dans votre entreprise ?
 - Compétences acquises
 	- Qu'elles compétences techniques avez développer durant ce stage ?
-	- Avez vous acquis de nouvelles compétences hors celles enseignées au BUT ? Si oui, lesquelles ?
+	- Avez-vous acquis de nouvelles compétences hors celles enseignées au BUT ? Si oui, lesquelles ?
 	- Comment ce stage a-t-il contribué à votre développement personnel et professionnel ?
 - Supervision et encadrement
-	- Comment avez vous été encadré durant ce stage ? Avez-vous eu un tuteur ou un mentor dédié ?
-	- Les objectifs fixés aux débuts de stage ont ils été atteints ? Si non, pourquoi ?
-	- Avez vous bénéficier de retour régulier sur votre travail ? Ces retours, ont ils été utiles ?
+	- Comment avez-vous été encadré durant ce stage ? Avez-vous eu un tuteur ou un mentor dédié ?
+	- Les objectifs fixés aux débuts de stage ont-ils été atteints ? Si non, pourquoi ?
+	- Avez-vous bénéficier de retour régulier sur votre travail ? Ces retours, ont-ils été utiles ?
 - Adaptation et défis
-	- Quels ont étés les plus grand défis que vous avez rencontrés durant ce stage ? Comment les avez vous surmontés ?
+	- Quels ont été les plus grand défis que vous avez rencontrés durant ce stage ? Comment les avez-vous surmontés ?
 	- Est-ce que vos cours en BUT vous ont bien préparé aux missions du stage ?
-	- Comment avez vous géré les différences entre le milieu académique et le milieu professionnel
+	- Comment avez-vous géré les différences entre le milieu académique et le milieu professionnel
 - Bilan et perspectives
-	- Quel bilan tirez vous de cette expérience de stage ? Qu'elles ont été vos principales satisfaction ?
-	- Avec le recul, il y a t-il quelque chose que vous auriez fait différemment durant ce stage ?
+	- Quel bilan tirez-vous de cette expérience de stage ? Qu'elles ont été vos principales satisfactions ?
+	- Avec le recul, il y a-t-il quelque chose que vous auriez fait différemment durant ce stage ?
 	- Cette expérience a-t-elle influencé vos choix de spécialisation ou d'orientation professionnelle future ?
