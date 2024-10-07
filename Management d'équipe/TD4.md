@@ -55,6 +55,5 @@ Le responsable RH :
 ### La hiérarchie des hommes
 
 - **Hiérarchie des hommes** :
-	- COnecpet qui explice l'odre des préiorité
-	- chaque niveau inferieur doit respecter les normes supérieurs et ne eut pas être en contradiction avec elle
-
+	- Concept qui explice l'odre des préiorité
+	- chaque niveau

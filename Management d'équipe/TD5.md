@@ -87,3 +87,7 @@ Intégration = Embording
 - Assurer un suivi 
 - Le mobiliser
 
+
+# TP à faire en cours 
+
+=> Cours du soir adréssé à une netreprise très riche pour devenir manager
