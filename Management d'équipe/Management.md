@@ -78,3 +78,73 @@ Exercice 2
 
 Méthode scrum
 
+# Partie 3 : Organiser
+**Prérequis** :
+- Comprendres les objectifs
+- Connaitres les moeyns allouées
+- Connaitre de cadre imposé
+
+**Activité** :
+- Définir les compétences nécessaires à la réalisation des taches prévus
+- Si ces compétences ne sont ps présente on doit organiser le recurtement
+- Coordiné les membre de léquipes
+- Attribuer les taches
+
+**Résultat** :
+=> Une équipe mobiliser et **opérationelle** disposant les **moyens necessaires**.
+
+
+
+## Cadre légale
+
+- **Salarié** => droit du travail
+- **Prestataires** => droit commercial
+	- *Le prestataire est soumis à un lien de subordination avec l'entreprise qui l'emploi, pas avec le client*
+- **Fonctionnaires** => droit public
+
+Quelle ressoucres de travail pour mon activité ?
+- Embaucher des salarié
+- Sous-traité
+- Externaliser l'activité
+
+
+### De quoi est constitué la relation de travail employeur/salarié?
+
+- Salaire et rémunération diverses (primes, stock options, ...)
+- Recrutement embauche
+- Rupture de contrat de travail
+- Condtitions de travail hygiène et sécurité
+- Congés, durée et temps de travail
+- Formation et évolution professionnelle
+
+
+**Cas du manager d'ne équipe de salariées en entreprise privée :**
+- Le cadre légale est défini par le **code du travail**
+- Mais aussi par le réglément interieur, accord d'enterprise, ...
+- Le mangare doit en connaitres les grands principes !
+- Parfois le manager est aussi responsable RH
+
+Le responsable RH :
+- il doit gérer les discriminations, conflit
+- ils gère la payent
+- il fait la communication entre la direction et le personnel
+
+### La hiérarchie des hommes
+
+- **Hiérarchie des hommes** :
+	- Concept qui explique l'ordre des priorité
+	- chaque niveau
+
+Code du travail, c'est quoi ? :
+Dialogue Social :
+- Relation individuelles de travail
+- Relation collectives
+- Durée de travail/salaires/intéressements/participations/épargne salariale
+- Santé/sécurité au travail
+- Emploi
+- Formation professionnelle
+- Dispositions particulières
+- Code de la bonne application de la législation au travail
+
+
+# Partie 4 : Activer
