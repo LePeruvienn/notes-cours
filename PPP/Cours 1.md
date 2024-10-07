@@ -63,3 +63,10 @@ Sélection du meilleur candidat par les recruteurs par des considérations profe
 	- Quel bilan tirez-vous de cette expérience de stage ? Qu'elles ont été vos principales satisfactions ?
 	- Avec le recul, il y a-t-il quelque chose que vous auriez fait différemment durant ce stage ?
 	- Cette expérience a-t-elle influencé vos choix de spécialisation ou d'orientation professionnelle future ?
+
+Pour l'offre de stage
+
+- Chercher les questions sous entends
+- Quelles sont les question qu'ils pourraient vous posez pour un entretient
+- Ce qui prouve que j'ai les compétences
+- 
