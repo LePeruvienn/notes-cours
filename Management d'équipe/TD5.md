@@ -71,7 +71,14 @@ A RETENIR :
 
 ## Recrutements et l'intégration
 
-Intégration = Embording
+- Embording = intégration
+- Dress Code
+- Goodies
+- Parc d'acceuil
+- Café
+- Buddy = le mec qui accompagne la nouvelle recru
+- 
+
 
 => **Processus d'inégrations** :
 
@@ -91,3 +98,17 @@ Intégration = Embording
 # TP à faire en cours 
 
 => Cours du soir adréssé à une netreprise très riche pour devenir manager
+
+- IA
+- prix 5000€
+
+| Compétences       | Besoins                          | Doryan                       | Théo                          | Corentin               | Arthur                                        |
+| ----------------- | -------------------------------- | ---------------------------- | ----------------------------- | ---------------------- | --------------------------------------------- |
+| Management        | 1 référent + tout le monde formé | +                            | +                             | +                      | +++<br>(Scrum Master, 5 ans d'expérience)     |
+| Conaissances d'IA | 1 référent + tout le monde formé | ++<br>(Machine learning)     | +                             |                        | +                                             |
+| Méthode Agile     | 1 référent + tout le monde formé | +                            | +++<br>(Jira, Trello, Notion) | +                      | +                                             |
+| Enseignement      | Tout le monde                    | +                            | +                             | +                      | +                                             |
+| Economie          | Au moins 1                       |                              |                               | ++<br>(Cac40 + crypto) |                                               |
+| Marketing         | Au moins 1                       | ++<br>(ventes de chaussures) | +                             |                        |                                               |
+| Desginer          | Au moins 1                       |                              |                               | ++<br>(maps designer)  | ++<br>(Web designer, Créateur ressource pack) |
+|                   |                                  |                              |                               |                        |                                               |

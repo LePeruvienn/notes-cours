@@ -68,5 +68,4 @@ Pour l'offre de stage
 
 - Chercher les questions sous entends
 - Quelles sont les question qu'ils pourraient vous posez pour un entretient
-- Ce qui prouve que j'ai les compétences
-- 
+- Ce qui prouve que j'ai les compétencess
