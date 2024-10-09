@@ -323,10 +323,21 @@ Grille des compétences :
 <u>compétences</u> : notre valeur, ensemble de savoir
 <u>qualification</u> : expérience/valeur professionnelle (en fonction de la formation et de l'expérience)
 
-#### Recrutement :
+#### Recrutement et intégration:
 Onboarding : intégration 
+Parc d'accueil
+Goodies
+Café
+Dress code
+Pack de bienvenue
+Déjeuner avec collaborateur
+Buddy
+Rapport d'étonnement
 
 Mobiliser ressources -> Annoncer son arrivée -> Accueillir -> Compréhension pourquoi il a été recruté -> Périmètre du poste -> Eviter procédures -> Présenter aux collaborateurs -> Implique l'équipe -> Assurer suivi -> Le mobiliser
 
 ### Exercice : 
 Cours du soir adressé à une entreprise très riche qui veut former salarié pour devenir manageur
+
+---
+
