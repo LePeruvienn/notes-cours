@@ -295,7 +295,27 @@ Dialogue Social :
 - Dispositions particulières
 - Code de la bonne application de la législation au travail
 
-(rattraper les trucs)
+CSE : Comité Social et Economiques
+
+### Rémunération salarié
+**Salaire fixe**
+- Salaire mensuel mentionné au contrat de travail et révisé
+- Primes personnelles
+
+**+ Salaire variable**
+- Lié à la performance du salarié et/ou à la performance de l'entreprise
+
+**- Cotisation sociales (salariales)**
+- Cotisations salariales : environs 20% à 25%
+
+**- Avance sur les impôts sur le revenu**
+- Montant selon le revenu du foyer fiscal et composition du foyer (tout les mois)
+
+### Convention collective
+
+Quelles est la différence entre le code du travail et la convention collective ?
+- Conventions collectives
+	- Connaitre les avantages pour réclamer les bénéfices
 
 ### Convention SYNTEC
 
