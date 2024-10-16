@@ -361,3 +361,62 @@ Cours du soir adressé à une entreprise très riche qui veut former salarié po
 
 ---
 
+Créer une structure c'est définir clairement : 
+- les postes en fixant **objectifs** et **responsabilités**
+- qui peut décider quoi (la **délégation**)
+- les **moyens** dont disposera chacun
+- les **modes de coordination** entre les différentes personnes ou sous-équipes
+
+# Partie 4 : Activation
+
+## Définitions
+- consiste à augmenter les propriétés physiques ou chimique d'un corps
+- Activation : a pour but d'animer les femmes et les hommes membres du groupe, ceci d'augmenter la capacité de celui-ci à atteindre ses objectifs.
+
+## Domaines majeurs
+- Contribuer à une **atmosphère agréable** et à la résulution des conflits
+- Contribuer à la **motivation**
+- Diriger et **être suivi dans ces directives** grâce au pouvoir, autorité et l'influence
+- Concevoir et **mettre en oeuvre des changements** dans le groupe pour améliorer son fonctionnement
+
+Savoirs : des clés d'analyse
+- comportement individuels
+- dynamique des groupes
+- des modes d'autorité, de la psychologie du travail
+Savoir-faire : des méthodes
+- Résolution de conflits
+- Animation de réunion
+- Entretiens individuels
+Savoir-être : des compétences à développer
+- Attention à l'autre
+- Ecoute
+- Capacité d'auto-analyse et de maîtrise de ses émotions
+
+## Attitude
+Prédisposition à agir ou penser de telle ou telle façon
+Etudier les comportements
+Proposer une gestion de conflit adapté à la source du problème et des personnes (pas pareil pour un introverti et un extraverti par exemple)
+
+### Composantes
+- Cognitive 
+- Affective
+- Conative
+
+## Exemple de questions soulevées dans le cadre du management d'équipe
+
+- comment organiser le travail en équipe de **différentes personnalités et cultures** ?
+- Comment tirer parti de la **variété**
+- Comment **adapter son management** 
+- Comment prendre en compte **sa propre personnalité** pour être un bon manager en tirant parti de ses zones de confort et en gérant ses zones d'inconfort
+-> Nécessité de bien se connaitre + comprendre/analyser comportent de ses collègues
+
+## Caractériser la personnalité
+- Personnalité et les traits de personnalité
+	- chaque personne est unique
+	- PAS de bonne ou mauvaise personnalité : chacune s'épanouira plus ou moins bien dans tel ou tel type d'environnement, apprendre différemment etc
+	- Les traits de personnalités ne sont pas "oui" ou "non"
+- Les tests
+	- Basés sur des théories reconnues
+	- Inutile de "mentir"
+	- Se "pré-tester" si possible
+
