@@ -26,4 +26,4 @@
 	- The number of these unique forms (wc) : `cat Lab-6/English-train.cupt | grep VERB | cut --fields=2 | sort -u | wc --words`
 	- The list of unique lemmas (column 3) of these verbs. Redirect this list to the unique-lemmas.txt file. : `cat Lab-6/English-train.cupt | grep VERB | cut --fields=3 | sort -u > unique-lemmas.txt`
 	- The differences between unique-forms.txt and unique-lemmas.txt (diff) `diff unique-lemmas.txt unique-forms.txt`
-	- The forms which are no lemmas. For example, have is a form and a lemma at the same time, while told is a form but not a lemma (use cut -d to specify the delimiter of fields other than a tabulation). : `diff unique-lemmas.txt unique-forms.txt | grep "<"`
+	- The forms which are no lemmas. For example, have is a form and a lemma at the same time, while told is a form but not a lemma (use cut -d to specify the delimiter of fields other than a tabulation). : `diff unique-forms.txt unique-lemmas.txt | grep "^<" | cut -c 3-`
