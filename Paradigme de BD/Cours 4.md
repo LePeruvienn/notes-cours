@@ -27,7 +27,7 @@ Exemple de projet
 
 
 => Exemple d'application web (sur moodle) !
-- Il ya tout le code source sur git
+- Il ya tout le code source sur [git](https://git.iut-orsay.fr/jraad/appwebsem)
 
 
 # BONUS 3 POINTS (et aussi pour le DS !!)
