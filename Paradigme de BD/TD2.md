@@ -1,0 +1,38 @@
+1) D'abord le groupe se forme via le cours d'Autocratie du professeur Rainer Wenger. Le leader de se groupe est le professeur, il va créer une identité au groupe avec l'aide des élève (signe, logo, ...) mais aussi les conditionné au groupe. Ceux qui n'adhère pas au groupe son exclus du cours et sont mit de côté par les membre du groupe.
+   
+2) 
+   **Marco** :
+   - **Personalité** : C'est un adolescent ordinaire, c'est quelqu'un de sociable qui as assez confiance en lui.
+   - **Environnement familliale** : Il ne vit pas avec sa famille et vit dans un foyer d'étudiant. Il n'as pas une bonne relation avec sa mère qui as de relation as des relation avec différents hommes.
+   - **Relation affectives** : C'est le petit ami de Karo (Caroline), il est ami avec la plupart des membre du groupe.  Sa relation avec Karo n'allaient pas très bien dans le film notamment à cause d'un voyage que Karo voulait organisé mais pas lui.
+   - **Implication dans le jeu** : Il était un des premier membre de la vague et plutôt impliqué dans tout les différents évenement du groupe. Mais sinon il restait plutot passif par rapoort aux différent problèmes du groupe.
+   - **Complexité du positionnement** : Marco faisait partie de l'équipe de WaterPolo qui était dirigé par le leader du groupe Rainer Wenger. Il avait alors un intérêt à un faire partie pour le bien du club. Mais d'un autres côté sa copine était justement une des enemies de ce mouvement. Il était alors dans une position délicate avec sa relation amoureuse.
+   - **Potientialité à être impliquée** : Il n'avais pas vraiment de raison à être impliqué. Mais il as suivit le groupe. Une des seuls raison qui pouvais le pousser vers le groupe était notamment pour fuir ses problème de couple, mais aussi à cause de ses problème de famille.
+   
+   **Caroline**
+   - **Personnalité** : Caroline appelé dans le file "Karo", c'est une adolécente intélligente qui est de type "Premier de la classe", et aussi indépendante d'esprit. Une personne qui arrive à prendre du recule sur les choses est qui vois d'avance les problème que peut avoir le mouvement.
+   - **Environnement familliale** : Elle vit dans une famille très peut stricte avec des manque d'éducation. Ce qui ammène à avoir un petit frère insolant. Idologie oposé à c'est parent et la critique.
+   - **Relation affectives** : En couple avec Marco, elle veut organisé un voyage avec Marco mais celui-ci ne veut pas, ce qui est créer des disputes.
+   - **Implication dans le jeu** : Contrairement aux autres membres du groupe, elle s'y oppose rapidement. Notamment car elle s'est faites exclure par celuici. Elles va alors mener des action contre le groupe.
+   - **Complexité du positionnement** : Son petit-ami Marco est impliqué dans le groupe se qui va créer encore plus de problème dans sa relation avec lui. Elle est aussi impliqué via son petit frèe qui va aussi intégrer le groupe. Exclu elle va donc mener avec une ami des action à l'encontre du groupe.
+   - **Potentialité à être impliqué** : Au début elle était d'accord avec le mouvement car elle aiment bien l'idéolgie stricte qui est lié au groupe, à l'inverse de son environnement familliale. Mais finalement au vu des actions du groupe elle va s'impliquer mais à l'encontre de celui-ci.
+
+3) **Première étapes** : Conditionnement, au début c'est le professeurs qui va conditionné les élève avec un signe, des routine, un dresscode, ect ...
+   **Deuxième étapes** : Implication des membres, certain membre vont vouloir allez plus loin que ce qui est fait en cours, il vont alors mener une propagande du groupe et aussi recruter de nouveau membres
+   **Troisième étapes** : Imposition de leurs idéologie : Plus le groupe grandi, plus il vont imposer leurs idéolgie aux autres en interdissant certain endroit à ceux qui font pas partie du groupe. Ils n'hésiterons pas à réprimender ceux qui s'oppose ce qui va créer des bagarres, notamment contre le groupes de anarchistes.
+
+4) La femme de Rainder Wagner, s'oppose à son mouvement ce qui créer des complications dans son couple. Mais aussi certaine élève comme Tim l'idolatre meme hors de l'école, ce qui les pousse à vouloir le protégé quoi qu'il en coute, ou à le considérer comme un modèle.
+   
+5) Nous pensons que c'est le profs qui est responsable. C'est lui qui as créer le groupe et aussi son identité. Il as perdu le controle de son groupe et as aussi été aveuglé par sa popularité croissante qui l'as poussé as continuer.
+   
+6) Oui les différents élèves ont été manipuer par le proffesseur qui leurs impose des restriction sous la contrainte du groupe (dress code, salut, ect ...). On peut parler d'effet agentique car on peut voir dans le films que les membres obéissent sans réfléchir à ses ordre. Par exemple à la fin du film, le professeur ordonne aux élève d'attraper Marco et de l'emmener sur l'estrade pour le punir, et les élève s'execute sans réfléchir. Puis quand le professeurs leurs fait remarquer, ils se rendent compte et regrettent.
+   
+7) Tim était un personnage qui était en recherche d'identités et a qui personne n'apportais d'attention. Il as pu via se groupe trouver enfin une identité mais aussi pouvoir se faire remarquer auprès des autres. De puis chez lui, sa famille n'était pas présente pour lui. Via Rainer, il as pu trouver un modèle qui lui donnait de l'attention. Il as pu arrivé en arrivé la car il était en détresse psychologique par rapport à tout ces problèmes. A la fin du film lorsqu'il apprend que la vague est fini, tout son monde s'effondre et il n'accepte pas cette réalité et perd sa raison de vivre. Sous la panique il tue alors son camarade et s'ote la vie. 
+   
+8) Marco est content de retrouvé une famille sur qui compté. Lorsque sa copine Karo, ne se tient pas au règle du groupe il n'hésite pas à la ridiculisé pour alors ne pas être associé à elle. Il as alors priorisé le groupe à sa relation avec Karo. A la fin du film, il en vient à frapper Karo à cause du groupe. Ce qui va provoqué chez lui une prise de consicence. Il va du coup s'opposé au groupe et exiger à Rainer d'arretez tout ça.
+   
+9) Dans la dernière scène, le professeur va tester sa force d'autorité en tant que leader. Il va mené un discours autoritaire, tel un dictateur. Puis lorsque Marco s'oppose à lui, il va testé l'obéssance du groupe en demandant aux élève de l'attraper et de le ramener sur la scène. Puis il va demander aux élève comment ils souhaitent punir Marco. A ce moement la tout les élève sont entouhsiaste à sa proposition. Ici il veut tester l'obéissance du groupe face à son autorité.
+   
+10) On peut réssister à ce genre de mouvement en s'oppasant aux groupes, et en essayant de montrer aux gens que le groupe est un problème et se dérives, par exemple en distribuant des prospectus, en parlant, ect ... Mais les cout de cette résisstance est qu'on se fera rejeté, opprimé et persécuté par celui-ci. On sera considéré comme un individu mauvais par les autres. On peut alors se sentir en danger dans l'envrionnement du groupe.
+    
+11)  Cette citation fait référence au début du film. Quand les élève parlent de la honte de l'allemagne par rapport au régime nazi, que pour eux c'était du passé et que aujourd'hui c'est quelque choses qui ne pourrait pas arriver. Pourtant durant le film le professeur va leur prouver le contraire. Les éleve qui pensait avoir appris du passé de leurs pays se retrouve à répété les meme erreurs. Donc la phrase "Un peuple sans mémoire, est un peuple sans avenir", s'applique bien au film car finalement les élève n'ont pas retenue les erreurs passé et ont fini par les reproduire.
