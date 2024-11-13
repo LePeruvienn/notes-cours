@@ -116,8 +116,10 @@ Tableau de propriété RGB
 ### L'onde
 
 **Caractéristiques**
-- `lambda` :  longeur d'onde
-- `v` : vitssedu son
+- $\lambda$ :  longeur d'onde en mètre
+- $v$ : vitsse de propagation
+- $T$ : Temps
+- $t$ ;
 
 **Différentes sources**
 - Cordes vocale
@@ -130,7 +132,7 @@ Tableau de propriété RGB
 Tout être vivant ne peut percevoir qu'une partie du spectre sonore (une partie des fréquences)
 
 - Oreille humaine entre 20 et 20k HZ
-- Infrasons < 20HZ
-- Ultrasons > 20kHZ
+- Infrasons < 20HZ -> grave
+- Ultrasons > 20kHZ -> aigu
 
 
