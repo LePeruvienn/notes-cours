@@ -84,7 +84,7 @@ Incovenients
 - Sensible au paramètres qu'on lui as attribué
 - et peut avoir du mal à séparé des données avec des densité très différentes
 
-
+j
 ## Evaluations des clustering
 
 
@@ -114,3 +114,33 @@ Indices de silhouette : Regarde si tout à été bien regroupéé
 # PYTHON !  VOIR LE DIAPO !!!
 
 
+# Résumer !!
+
+### Aprentissage non supervisé
+- On apprend à un modèle à partir de données pas étiquettez, ou on ne connait pas la bonne réponses
+- Le modèle doit alors avoir trouver lui meme groupers les données et les étiquettez sous la forme de **cluster** qui sont les différentes classes qu'il as déduit
+
+### Clustering - la base
+- c'est le fait de regrouper les donner sous forme de **classes** par rapport à leurs caractéristiques
+- Exemple : Différentes image, on les regroupe par **cluster** en fonction de leur catégorie, paysage, animaux, maxence ...
+- **C'EST DE L'APPRENTISSAGE NON SUPERVISE, LES DONNEES NE SONT PAS ETIQUETTER DE BASE !!**
+
+### Clustiring - les méthodes
+
+- **Clustering partitif (K-Moyenne ou Kmeans)** : division des données en un nombre prédéfini de clusters (K). Chaque point est assigné au cluster le plus proche
+
+- **Clustering hiérarchique (Agglomératif ou divisionnel)** : création d’une hiérarchie de clusters, souvent représentée sous forme de dendrogramme
+
+- **Clustering basé sur la densité (DBSCAN)** : identification de clusters denses séparés par des régions de faible densité
+
+
+### K-means
+- **Objectif** : Diviser le nombre de données dans un certain nombre de K clusters, qui sont les points les plus proches des autres
+	1. **Initialisation** : L’algorithme commence par choisir aléatoirement K points appelés centroïdes. Ces points représentent le centre de chaque cluster
+	2. **Attribution des points** : Chaque point de données est assigné au cluster dont le centroïde est le plus proche (distance euclidienne)
+	3. **Recalculation des centroïdes** : Une fois que tous les points sont assignés à un cluster, l’algorithme recalcule le centroïde de chaque cluster en prenant la moyenne des points de ce cluster
+	4. On répète les étapes 2 et 3 jusqu'a que les centroïde ne change plus
+- **Avantage** : simple et rapide
+- **Désavantage** : Sensible aux outliner, Nécessite de connaitre K à l'avance
+
+### Clustering hiérarchique

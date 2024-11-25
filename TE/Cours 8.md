@@ -91,5 +91,3 @@ A partir du même raisonnement que Blake et Mouton, Likert défend le principe d
 - Toute personne doit se sentir consdéerée et nécessaire dans l'entreprise pour travailler éfficacement.
 - Pour qu'une organisation soit efficace, des groupes de travail doivent être mis en place afin de résoudre les problème rencontrés
 => Mode de management participatif par groupe de travail
-
-
