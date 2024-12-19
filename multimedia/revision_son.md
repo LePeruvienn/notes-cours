@@ -17,15 +17,15 @@
 - **Amplitude (dB)** : Intensité perçue :
   - Seuil d’audibilité : 0 dB.
   - Seuil de douleur : 130 dB.
-- **Longueur d’onde (\(\lambda\))** : Distance parcourue en une oscillation.
+- **Longueur d’onde ($\(\lambda\$))** : Distance parcourue en une oscillation.
 
 ---
 
 ## 3. Acquisition du son
 - **Conversion analogique-numérique** :
-  - **Échantillonnage** : Prise d’un échantillon toutes les \( T_e \) secondes.
-    - Fréquence d’échantillonnage \( F_e \geq 2 F_{\text{max}} \).
-    - Ex. : Audio standard \( F_e = 44,1 \text{kHz} \).
+  - **Échantillonnage** : Prise d’un échantillon toutes les $\( T_e \$) secondes.
+    - Fréquence d’échantillonnage $\( F_e \geq 2 F_{\text{max}} \$).
+    - Ex. : Audio standard $\( F_e = 44,1 \text{kHz} \$).
   - **Quantification** : Conversion des valeurs en niveaux discrets.
   - **Codage** : Enregistrement des valeurs en binaire.
 
@@ -43,10 +43,10 @@
 
 ## 5. Transformations et filtrages
 - **Filtrage** : Extraction ou suppression de fréquences spécifiques.
-  - **Passe-bas** : Garde les fréquences basses (< \( F_c \)).
-  - **Passe-haut** : Garde les fréquences hautes (> \( F_c \)).
+  - **Passe-bas** : Garde les fréquences basses (< $\( F_c \$)).
+  - **Passe-haut** : Garde les fréquences hautes (> $\( F_c \$)).
 - **Réverbération** : Simule l’écho naturel :
-  - \( s_r(t) = (1 - \alpha)s(t) + \alpha s(t - \Delta) \).
+  - $\( s_r(t) = (1 - \alpha)s(t) + \alpha s(t - \Delta) \$).
 - **Distorsion** : Écrêtage du signal pour modifier son intensité.
 
 ---
