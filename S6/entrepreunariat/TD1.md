@@ -21,3 +21,24 @@ Innovation :
 - de procédé et d'organisation -> change manière organisation / chaine logistique de son travail
 - de modèle d'affaires (uberisé) -> Réorganise les coûts / structure des revenue
 - sociale -> Apporte new rep à des besoin sociaux
+## Trouver une idée d'entreprise
+**noté dessus**
+
+Quand trouver :
+Idée -> cohérence Homme/projet -> Montage du projet -> Appui financement du projet -> Dev de l'entreprise
+## Trouver ? Financer !
+### Capitaux dep :
+- nos économie
+- l'Arce
+- coup de pousse des proches
+- prêt d'honneur
+- Initiative France
+- Réseau Entreprendre
+- Wilco
+- dons de particuliers, plateforme de crowdfunding
+- concours
+- subventions
+### Recherche inverstisseurs
+- business  angels
+- ...
+### Emprunts
