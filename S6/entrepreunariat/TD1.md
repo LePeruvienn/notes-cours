@@ -42,3 +42,14 @@ Idée -> cohérence Homme/projet -> Montage du projet -> Appui financement du pr
 - business  angels
 - ...
 ### Emprunts
+
+# Pratique
+impréssioner client, jullet 1995, garage pavillon, 1994 30 ans finance, flaire comerce internet, librairie en ligne, 16 juillet 1995 lancement site, dés 1 mois bcp de commande, croissance constante.
+3 pillier e-commerce, ... low price and rapidité livraison, abonnement prime plus chère mais rentable, efficase productivité rapidit, algorithme dolfi - que ca.
+Activité plus renta -> AWS, client de netflix etc..., cloud computing, trésorie qui permet d'innover
+## 1) Cohérence : Idée, Homme, Entrepreneuriat  (Vidéo)
+## 2) Quels besoins ont été satisfaits par cette idée ?
+(trait de caractère de l'entrepreneur)
+L'idée du e-commerce ont satisfaits le besoin d'un client qui voudrait un service, rapide efficace et peut coûteux. Pour ce là, Amazone est partie avec la stratégie de faire un abbonnment qui permmetra, aux clients, avoir un service rapide et peux coûteux, ce qui accentue l’efficacité du service et qui répond au besoins des clients. Cette stratégie a un coût plus chère niveau financièrement (2x plus de frais de livraison), mais reste rentable car les client consommer plus avec l'abonnement. Cette stratégie ramène des problème d'exploitation des employer ce qui amène une mauvaise image de l'entreprise.
+## 3) Quelles formes d'innovation ?
+## 4) Quel degrés d'innovation ?
