@@ -1,0 +1,11 @@
+- commande clavier :
+	- couper caractère : x
+	- insertion avant caractère : i
+	- insertion après caractère : a
+	- insertion fin de ligne : A
+	- supp mot en début du mot : dw
+	- supp jusqu'a fin de ligne : d$
+- commande console :
+	- Sortir sans sauvegarder : :q!
+	- enregistrer est sortir : :wq
+# emacs
