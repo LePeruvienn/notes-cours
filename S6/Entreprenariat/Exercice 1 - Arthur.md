@@ -85,6 +85,6 @@ Ils vont destribué des réseaux de serveurs qui sont dans le monde, AWS loue de
 
 ### Réponses aux questions :
 
-1) Jeff Besos était quequ'un qui travaillais à New York dans la finance
+1) Jeff Besos était quequ'un qui travaillais à New York dans la finance. Il as tout quitter pour s'installer à Seatle et lancer son buissness de vente de livre en ligne sur internet. À l'époque internet était encore inconnu du publique et Jeff Bessos à su prendre cette opportunité dans ce domaine qu'il ne conaissait pas en créant son buisness. C'est quelqu'un qui prend des risque pour mettre en place des idée visionnaire. On peut aussi le voir avec AWS ou il as su que la demande de serveurs internet allez croitre et c'est alors positionner en premier sur le marché afin d'être l'option par défault. Jeff Bessos est un visionnaire qui se plonge dans les domaines 
 
 2) 
