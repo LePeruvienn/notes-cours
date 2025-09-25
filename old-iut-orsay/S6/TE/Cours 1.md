@@ -108,8 +108,8 @@ Décision : Mehdi K. doit mettre en place requete API de connexion client et de 
 2. Bug sur le module de prise de RDV
 - Les RDVs du client ne sont pas affichés sur l'interface
 Décision : Léa T. doit résoudre le bug d'affichage coté client.
-
-3. Choix de navigation entre les écrans
+[](https://cdn.discordapp.com/attachments/1207303140123353088/1385732845628293242/IMG_20250620_232708_408.jpg?ex=685723c8&is=6855d248&hm=b14c0a8d4913b945851030ad92afc91852898b83e3abb52903581a1774fe4121&)
+2. Choix de navigation entre les écrans
 - Le choix du style d'interface pour le menu n'as pas encore été décidé, le choix se porte sur un menu ou un swipe
 Décision : Lucas P. a décidé que pour garder une ergonomie mieux adaptée aux écrans mobiles, le choix du swipe est alors le plus juste.
 
