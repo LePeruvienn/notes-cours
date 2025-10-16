@@ -69,4 +69,4 @@ Askip faut être pro et tout
 
 3) Quelles est le métier de l'entreprise (3 segments, stratégie) ?
 
-4) Quelles est le potentiel de développement de Pennylane ?
+4) Quelles est le potentiel de développement de Pennylane ?j
