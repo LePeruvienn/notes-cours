@@ -162,3 +162,46 @@ Le but est de trouvé des objets/vecteurs (mots, phrase, ...) similaires.
 Un des moyens le plus utilisé est similarité sémantique via cosinu :
   - Les deux objets sont vectorisé dans l'espace
   - Leurs niveau de similarité est le cosinus de l'angle qui est entres les deux veceteurs
+
+
+# Prompt Engeineering
+
+### Erreurs les plus communes
+
+- Prompt trop vague ou ambigu
+- **Absence de contexte** : Toujours inclure, le rôle, l'objectif et le public visé
+- **Manque de contrainte explicite**
+- Mauvais enchainement des requetes
+- **Absences d'exemples** : Les LLMs apprennent beaucoup par analogie.
+
+### Bonnes pratiques
+
+- Donner un role clair
+- **Utilise une structure logique** : Contexte -> Tacge -> Contraintes -> Format de sortie attendu
+- Utilisé des exemple (Few-shot prompting)
+- **Itérer** : Tester -> Analyser -> Ajouter le prompt
+- **Guide le raisonenement (COT: Chain of Toughts)**
+- Spécifier le format de sortie
+- Ajouter des gardes-fou : pour qu'on ne puisse pas "*jailbreak*" l'IA (lui faire générer des trucs pas cool et pas prévu).
+
+
+### Méthode R.EACT
+
+- **R**ole
+- **E**xample
+- **A**ction
+- **C**ontext
+- **T**one/Target
+
+(*CACA* Cf: Doryan le gros nulle)
+
+
+### Les limites de l'IA générative
+
+- Manque de compréhension dumonde réelle
+- Hallucination et erreurs factuelles
+- Dépendance aux données d'Entrainement
+- Biais et stéréoptype
+- Manque de transparences
+- Problème de cout et de scalabilité
+- Enjeux éthique et juridique
