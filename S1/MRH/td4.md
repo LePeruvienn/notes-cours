@@ -26,6 +26,24 @@ Storry telling : En gros il as croisé un boug espagnole qui lui demandais pour 
 
 ---
 
+# Le Manager
+
+
+**Le manager as un rôle important dans la communication de l'équipe** : 
+
+- Il est un exemple, un modèle et cete exemple est contagieux.
+
+- Il est donc sa première ressources et sa premier enemi.
+
+- Il se doit dès de le début de fixer un cadre (CER : Cadré Encadré Recadré), il doit fixer des limites.
+
+- Les conflits sont impactés énormément par les non-dits (faut dire les choses sinon c'est pas cool).
+
+
+*Storry telling* : il as grand dans une cité à Corbeil, ses grand reufs fasais des sports de combat donc y a des gens qui on suivit l'exemple et d'autres non. Ceux qui l'ont pas fait on attraper le SIDA et son tomber dans la drogue ???? 💀 J'ai pas compris y avais pas de contexte
+
+---
+
 
 - *PS: Fuck Doryan tout mes frérot déteste Dorian 🥷*
 
@@ -51,3 +69,6 @@ Storry telling : En gros il as croisé un boug espagnole qui lui demandais pour 
   \     /   /          .-               -.
    \______ /              :-----------:
 ```
+
+
+
