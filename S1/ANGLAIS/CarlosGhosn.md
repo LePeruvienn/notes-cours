@@ -1,8 +1,26 @@
 # Documentaire : Fugitive, Case of Carlos Ghosn.
 
-CG has left japan and feld (*fuit*) to Lebanon. (if he dont get out of japan is like he is gonna die there)
+**Intro** :
 
-- 130 day in prison, handcuffed, solitary constraints
+- CG has left japan and feld (*fuit*) to Lebanon. (if he dont get out of japan is like he is gonna die there)
+
+- 130 day in prison, handcuffed, solitary constraint, felt like he was not a human anymore.
+
+- Lost all his power
+
+- International conspiracy
+
+**Beginning**
+
+Begin in 1996 in Paris, CG was there to help Renault cause they were in a bad position (net loss of 5,348M of francs).
+
+Louis Schweizer (Former CEO of Renault) was looking for a sucessor, so he called CG.
+
+In french society many CEO and Factory owner are from heritage, but CG was not like that.
+
+CG n'avait pas envie de rentrer dans les code de la socité française et ça lui as coûté beaucoup par la suite.
+
+Ses patrons et collègues de CG ne l'appréciais pas car il ne le voyait pas en dehors du bureau. Il as toujours été un "outsider".
 
 - CG's Sister :
 He is really the brother you want to have
