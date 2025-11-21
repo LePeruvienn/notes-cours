@@ -1,4 +1,4 @@
-# Documentaire : Fugitive, Case of Carlos Ghosn.
+# Documentaire : Fugitive, Case of Carlos Ghosn. (Netflix)
 
 **Intro** :
 
@@ -72,3 +72,8 @@ Please be ready to write about all that you have worked on so far.
 - One full page, no spaces.
 
 Write down the background and also what you have learnt.
+
+
+# TRAME
+
+
