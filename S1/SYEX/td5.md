@@ -48,9 +48,9 @@ Après l'executiond de celui ci on check si il ya une erreur.
 
 - T1: Text
 - D1: Données
-- H1: Tas
-- S1: Pile
-- Sys: Sytème
+- H1: Tas (HEAP)
+- S1: Pile (STACK)
+- Sys: Système
 
 **Quand on fait un nouveau fils, on duplique tout dans la mémoire phyisque sauf** :
 

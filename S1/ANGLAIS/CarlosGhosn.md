@@ -73,7 +73,26 @@ Please be ready to write about all that you have worked on so far.
 
 Write down the background and also what you have learnt.
 
+---
 
-# TRAME
+La suite et tout :
+
+NIssan was 200 million in debt before renaut investment, nobody tought that this is gonna be a sucessor
+
+THe alliance between renault and Nissan was not equal, renault had a +++
+
+They controled nissan
+
+Japan felt like they were tanken over by french people, it was losing a war, they felt occupied by the french
 
 
+CG has visited factories, and talk to worker to see that we is not gonna fire people for no reease.
+- On le voit faire des discours aux travailleurs en leurs dit oe c'est vous vous devez travailler plus sinon vous méritez pas d'être la car c'est aussi votre entreprise (oh la douille)
+
+
+Quelqu'un dit que après que CG est venu, son job était de virer des employées
+
+On voit des manifestation des japonais contre l'alliance Renault et Nissan
+
+
+Dans la culture japonaise la fete la plus importante c'est le jour de l'an.
