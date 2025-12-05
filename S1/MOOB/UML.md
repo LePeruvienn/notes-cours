@@ -2,7 +2,21 @@
 
 ## I. COURS
 
+```mermaid
+classDiagram
 
+A --> B
+C --|> D
+E --* F
+G -- H
+I ..|> J
+```
+
+- **A-B** : ??? (svp aider moi je sais pas)
+- **C-D** : Héritage (classes)
+- **E-F** : Composition (possède)
+- **G-H** : Association
+- **I-J** : Implémentation (interface)
 ## II. EXOS
 
 ### Exercice 1 : Diagramme de classe, échauffement
@@ -246,3 +260,50 @@ stateDiagram
 - Pas oulbier aussi qu'on peut ajouter si meme si le container est plein (mais ne fait rien dans ce cas)
 
 Donc deux flèche vers eux même mais le rendu après il est moche
+
+---
+
+### Exercice 4 : Diagramme de classe
+
+```mermaid
+classDiagram
+	class Universite{
+	}
+	class Salle{
+		+identifiant: int
+	}
+	<<abstract>> Salle
+	class Bureau{
+	}
+	class Classe{
+		+nbChaise: int
+	}
+	class Departement{
+		+nom: String
+		+bureaux: Bureau[]
+	}
+	class Personne{
+		+identifiant: int
+	}
+	<<abstract>> Personne
+	class Professeur{
+		+statut: int
+	}
+	class Employe{
+	}
+	
+	Universite -- "*" Departement
+	Universite -- "*" Salle
+	
+	Bureau --|> Salle
+	Classe --|> Salle
+	
+	Professeur --|> Personne
+	Employe --|> Personne
+	
+	Departement -- "*" Bureau
+	
+	Professeur "*" -- "1" Departement
+	Employe "0..1" -- "1" Bureau : "Travaille"
+```
+
