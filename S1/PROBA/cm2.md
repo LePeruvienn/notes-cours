@@ -2,8 +2,7 @@
 
 ### Trucs random que le profs à noter que je met la
 
-- $E \cup F = (E \cap \bar{F}) \ \cup \ (E \cap F) \ \cup \ (\bar{E} \cap F)$
-
+$E \cup F = (E \cap \bar{F}) \ \cup \ (E \cap F) \ \cup \ (\bar{E} \cap F)$
 ### Propriétés
 
 Soit E et F deux événements :
@@ -27,3 +26,7 @@ $P(F \setminus E) = P(F) - P(E) \ \  et \ \ P(E) \leq P(F)$
  En particulier si $E$ et $F$ sont disjoints: $E \cap F = \emptyset$, alors
  
  $P(E \cup F) = P(E) + P(F)$
+
+Avec $E$, $F$ et $G$ trois évenements,
+
+$P(E \cup G)  = P(E) + P(F \cup G) - P(E \cap (F \cup G))$
