@@ -2,7 +2,8 @@
 
 ### Trucs random que le profs à noter que je met la
 
-$E \cup F = (E \cap \bar{F}) \ \cup \ (E \cap F) \ \cup \ (\bar{E} \cap F)$
+- $E \cup F = (E \cap \bar{F}) \ \cup \ (E \cap F) \ \cup \ (\bar{E} \cap F)$
+- $P(\bar{E} | F) = 1 - P(E|F)$     mais attention   $P(E|\bar{F}) \ne 1 - P(E|F)$  !!!
 ### Propriétés
 
 Soit E et F deux événements :
