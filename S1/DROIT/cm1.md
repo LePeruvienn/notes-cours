@@ -93,7 +93,7 @@ Exemple :
 - Le fait, **sans motif légitime**, de transmettre / produire / disposer d'un **programme informatique pour effecteur une ou des infraction**.
 - Est **punit de la même manière** que **l'infraction elle même**
 
-* Le prof dit que Mattéo est un man vivant de `nmap` ( Matteo se fait draguer la non ? 🤭)*
+*Le prof dit que Mattéo est un man vivant de `nmap` ( Matteo se fait draguer la non ? 🤭)*
 
 ### Réagir à une atteinte
 
@@ -135,12 +135,117 @@ Un salarié peut **se faire virer** pour avoir **acceder à des données** dont 
 
 ## Cryptographie
 
+Loi du 21 juin 2004, pour la confiance dans l'économie numérique (LCEN), art 29 :
+
+- On entend par **moyen de cryptologie** tout **materiel** ou **logiciel** conçu ou modifié pour **transformer des données**.
+
+- Ils ont principalement pour objet de garantir la **confidentialité**, **l'authentification** ou le controleur l'**intégriter** de données.
+
+
+LCEN, art 30, I.
+- l'**utilisation** des moyen de cryptologie est **libre**.
+
+LCEN, art 30, II.
+- Leurs importation, exportation, fourniture des moyens de cryptologie sont **libre**, seulement ils sont exclusivement utliser pour de **l'authentification** ou **controle d'intégriter** 
+
+**Règle spécial** :  pour l'importation et exportation de moyens de cryptologie à fonction de **confidentialité** !!! (il faut demander un autorisation à l'état)
+
+- Si tu fais pas de demande à l'était -> Amende + prison !!
 
 ## Informatique et liberté
 
+### Enjeux
+
+**Sanctions pronoçable par la CNIL**
+- Rappel à l'ordre
+- jusqu'a **20 millions d'euros** ou **4% du chiffre d'affaire annuel modial total**.
+- Souvent publiques
+
+**Sanctions pénales**
+- Le plus souvent : 5 ans d'emprisonement et une grosses amende
+
+### Donnée à caractère personnel
+
+RGPF, art. 4, 1
+- Les **données à caractère personnel** sont **toute inforamtion** qui permet à **d'identifié** une **personne physqiue**.
+
+### Délégué à la protection des données (DPO)
+
+C'est **le garant de la conformité** au sein de l'organisme.
+
+Le **DPO** peut être  :
+
+- interne ou externe
+- Indépendant
+- associé
+- Soumis au secret pofessionel
+- Charger de controler le respect des diposition juridique
+
+
+Selon le RGPD, art 37, 1. (**en gros le DPO peut être obligatoire dans certaine entreprise**)
+
+Obligatoire pour le **responsable du traitement des données** et le **sous-traitant des données** lorsque :
+- Le traitement est effectué par **une autorité publique ou un organisme public**
+- **suivi** régulier et **systèmatique** à **grande échelle** des personnes concerné
+- Sinon toujours possible mais pas obligatoire.
+
+
+### Champ d'application territorial
+
+RPGD, art 3, 1.
+- Le RPGD est **obligatoire** sur **tout établissement se trouvant sur l'union européenne**.
+
+RPGD, art 3, 2.
+- Le RPGD **s'applique sur tout traitement de données personnel effecuteur** sur une personne qui se **situe sur le térritoire de l'union européenne**, meme si le **traitent se situe en dehors de l'union européenne**.
+- Mais la RGPD ne peut pas forcer cette loi à s'appliquer sur les personne se trouvant en dehors de l'union européenne.
+
+### Principes fondamentaux
+
+#### Base juridique de Traitement
+
+Le traitement est **licite** (valide/appliquable) si au moins **une des conditions suivante est rempli** :
+
+1) La personne concerné à **consenti** au traitement.
+2) Le traitement est **nécessaire à l'execution d'un contrat**
+3) Le traitement est **nécessaire** au respect d'une **obligation légale**
+4) ...
+
+#### Exigences
+
+Pour que le traitement soit **licite** il **doit remplir toutes les conditions** suivante :
+
+1) licite, loyale et transparente
+3) déterminé, explicite et légitmes
+2) Adequate pertinentes et limitées
+4) Exactes et si necessaire, tenu à jour
+5) La durée de la conservation des données ne doit pas dépasser la durée nécessaire à la finalité
+6) Elle doivent conserver dans un stockage sécurisé.
+
+#### Données sensible
+
+Pas le droit de stocker des données sensible à caractère personnel tel que :
+- Orientation sexuelles, religion, ...
+
+#### Obigation juridique
+
+RGPD, art 32, 1.
+- Les organisation doivent mettre en place des **mesures techniques et organisationnelle appropriées** afin de **garantir un niveau de sécurité adapté au risque**.
+
+#### Information des personnes concernées
+
+Loi du 6 janvier 1978 midifée, art 82.
+- Il faut que tu donne la possibilité à l'utiliseur de refuser le traitement de données (notamment pour les cookie 🍪 )
+
 ## Conservation des journaux de connexion
 
+Code des postes et de communications éléectronique (CPCE), art. L. 32, 18°
+- On entend par **données personnel relatives au trafic**
+
+S'applique aux personne qui au titre d'un travail fournisse à un accès à un internetn ou le fournisse simplement gratuitement.
+
 ## Surveillance des salariées
+
+
 
 ## Administrateur sytème et réseaux
 
