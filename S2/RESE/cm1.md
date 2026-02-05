@@ -113,8 +113,14 @@ Selon la distance maximal reliant deux points (la portée) :
 - **PAN** (Personal Area Network) *une personne*
 - **LAN** (Local Area Network) *Une maison, un batiment*
 - **MAN** (Metropolitan Area Networks) *une ville, entreprise, université*
-- **RAN** (Regional Area Network) *Une région*
-- **WAN** (Wide Area Network) *Continent, mondiale*
+- **RAN** (Regional Area Network) *une région*
+- **WAN** (Wide Area Network) *continent, mondiale*
+
+Autres :
+
+- **SAN** (Stockage Area Network) *data center*
+- **CAN** (Controlled Area Network) *automobiles*
+- **GAN** (Global Area Network) *satellites, cécllulaire*
 
 ### Organisation des réseaux étendu `WAN`
 
@@ -124,7 +130,7 @@ Selon la distance maximal reliant deux points (la portée) :
 
 **Types de WAN**
 - WAN public
-- WAN privé
+- WAN privé (ex: SWIFT)
 - WAN virtuel
 
 **Mode de transport**
@@ -140,7 +146,7 @@ Un réseau télécom se compose de 3 grands niveaux
 **Partie COEUR** : réseau de transport (réseau dorsal: backbone)
 - Véhicule l'information
 
-**Partie METRO**
+**Partie METRO** (collecte)
 - Assure le transport
 
 **Partie ACCÈS**
