@@ -1,4 +1,11 @@
-# CM2
+
+### LA BASE 
+
+Si $P(F) \gt 0$  alors :$$P(E | F) = \frac{P(E \cap F)}{P(F)}$$
+## Événement indépendant
+
+Deux événements sont indépendant seulement si :
+- $P(E \cap F) = P(E) \times P(F)$
 
 ### Trucs random que le profs à noter que je met la
 
