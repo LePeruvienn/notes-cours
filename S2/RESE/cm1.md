@@ -112,8 +112,8 @@ Selon la distance maximal reliant deux points (la portée) :
 
 - **PAN** (Personal Area Network) *une personne*
 - **LAN** (Local Area Network) *Une maison, un batiment*
-- **MAN** (Metropolitan Area Networks) *entreprise, université*
-- **RAN** (Regional Area Network) *Une ville, une région*
+- **MAN** (Metropolitan Area Networks) *une ville, entreprise, université*
+- **RAN** (Regional Area Network) *Une région*
 - **WAN** (Wide Area Network) *Continent, mondiale*
 
 ### Organisation des réseaux étendu `WAN`
