@@ -276,4 +276,4 @@ Flemme 😴
 
 # 3. Consignes
 
-
+- Tout le monde doit coder un minimum
