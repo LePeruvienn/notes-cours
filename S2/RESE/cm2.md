@@ -127,10 +127,9 @@ le PCI est l'entête de la couche N actuelle.
 
 
 
-
 **PDU(s) et couches OSI** :
 
-- *Application, Présetntation, Session* : **dépend du protocole utiliser**
+- *Application, Présetntation, Session* : **dépend du protocole utiliser** (Message pour TCP/IP)
   - (FTP, HTTP, ...)
 
 - *Transport* : **Segment**
