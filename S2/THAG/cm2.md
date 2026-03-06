@@ -78,6 +78,5 @@ Soit un graphe $G = (V, E)$ orienté. $g$ est une fonction de Grundy de G si $g$
 - En gros pour chaque sommet on essaye de mettre un nombre différent à son successeur (souvent 0 ou 1, on ajoute un nouveau numéro seulement si son successeur et son prédécesseur est le même !
 - Les entier qui ont un 0 c'est le noyau.
 
-## Base de cycles
 
-
+En fait il faut que chaque prédécesseur et successeur n'ont pas le même nombre
