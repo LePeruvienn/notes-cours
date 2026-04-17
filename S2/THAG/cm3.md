@@ -14,11 +14,18 @@ Cycle qui passe une fois au plus par un sommet
 **Notation vectorielle**
 LEs arcs d'un grpahe étant numoroté de 1 à $m$, on peut faire correspondre à tout cycle à $m$-uplet (un "vecteur") composé de $-1$, $1$ et $0$ de la manière suivante :
 
-- Si l'arc appartient pas au cycle on met un $0$
-- Si l'arc appartient au cycle et est parcouru dans le bon sens (il est alors directe) on met $+1$.
-- Si l'arc appartient au cycle mais parcouru dans le mauvais sens (on le qualité de "inverse"), on met $-1$.
+### Calcul
 
-Un cycle peut aussi être vu comme une combinaison linéaire des cycle qui le compose.
+Depuis notre graphe on créer un **sous-graphe connexe** qui est un **arbre**
+
+Puis ensuite on y ajoute alors une arrête : cela **créer alors un cycle !**
+
+- On répête cette opération, et lorsque l'ajout d'une arrête créer un cycle alors on note le cycle.
+
+Ex : base de cycle : {$C_1, C_2, C_3, C_4$}
+
+Le nombre de base de cycle peut être calculer avec la formule : $m - n - 1$
+
 
 ### Définition
 On peut définir une **base de cycles** (dans le sens vectoriel) comme étant une famille de cycle :
@@ -29,6 +36,8 @@ et
 
 - **génératrice** : tout cycle peut s'écire comme une combinaison linéaire des cycles de même famille.
 
+
+Un cycle peut aussi être vu comme une combinaison linéaire des cycle qui le compose.
 
 ### Nombre Cyclomatique
 
@@ -50,6 +59,8 @@ Un arbre en théorie des graphe est un **graphe connexe** qui ne **comporte aucu
 
 ## Cocycle
 
+Un **cocyle** c'est l'ensemble des points qui rentre et qui sorte d'un **ensemble de sommet**.
+
 Soit $A$ un ensemble de sommets d'un graphe $G$, on appelle cocycle associé à $A$, qu'on notre $\mu(A)$ l'ensemble des arc incidents à $A$, ceux qui quittent $A$ seront notés positivement et ceux qui pointent vers $A$ seront notés négativement.
 
 Exemple : 
@@ -57,7 +68,7 @@ Exemple :
 
 Avec $A$ un ensemble de points, qui contient les sommets $D$ et $F$.
 
-En gros on prend un ensemble de points, et pour toutes les arrêtes :
+En gros on prend un ensemble de sommets, et pour toutes les arrêtes :
 
 - Si ils sortent dans un des sommets $+1$.
 - Si ils rentre dans un des sommets $-1$.
@@ -87,12 +98,27 @@ Exemple:
 
 On répête ces étapes pour toutes arrêtes.
 
+**Rappel** : Le vecteur cocyle c'est pour un sommet, toutes les arrêtes à la suite avec avec leurs nombre cyclomatique (+1, -1 ou 0) Ex: $(1, 0, -1)$.
 
 ## Planarité
 
 Un graphe **planaire** est un graphe qui à la particularité de pouvoir se représenter sur un plan sans que **aucune arrête en croise une autre**.
 
 - En gros les arrêtes ne se croise pas, ou si on en déplacement des sommets les arrête se croise plus.
+
+**Exemple**
+- Le graphe $K_{3,3}$ (*biparti et complet*) est **pas planaire** à une arrête près 😢
+- Le graphe $K_5$ (*complet à 5 arrête*) est **pas planaire** non plus à une arrêt près 😢
+
+En fait c'est les plus petit graphe qui ne sont pas planaire, donc :
+- $K_{2,2}$ est **planaire** 😎
+- $K_{4,4}$ est **planaire** 😎
+
+
+**Important**
+
+Pour savoir si un graphe est planaire il faut regarder **si le graphe contient un $K_{3,3}$ ou un $K_5$** si c'est le cas il est **pas planaire** 😢
+
 
 ## Faces
 
@@ -138,4 +164,27 @@ Si $G$ est un graphe simple planair connexe contenant au moins 1 face finie alor
 - $m < 3n - 5$, avec $m$ le nombre d'arrête et $n$ le nombre de sommets.
 - il existe au moins un sommet $e$ de degré $d(e) < 6$
 
+**Graphe biparti complet**
+- C'est un graphe biparti qui contient toutes les arrêtes possible
+
+**Condition d'un graphe biparti**
+
+Une graphe est planair seulement et seulement si il ne contient pas un sous-graphe partiel 
+
+## Minieur d'un graphe
+
+Un graphe $H$ est mineur si il peut être obtenu en faisant les 3 opération suivante un certain nombre de fois :
+
+- On peut supprimer un sommet isolé (*un sommet sans voisin*)
+- Supprimer une arrête
+- **Faire une contraction d'arrête** : C'est à dire qu'on supprimer une arrête et que les deux sommets de l'arrête fuisonne pour donner un nouveau sommet
+
+On peut alors dire qu'un graphe $M$ est le minieur d'un graphe $G$, si en effectuant plusieurs opération de ce type sur le graphe $G$ on obtient le graphe $M$ !
+
+**Le but de ça c'est de trouver des $K_5$ et de $K_{3,3}$ afin de prouver qu'un graphe d'un pas planaire** !
+
+
+**Théorème**
+
+Un graphe est **planaire** si il ne contient pas de $K_5$ ou de $K_{3,3}$ mineur dans son graphe.
 

@@ -56,7 +56,6 @@ Toute formule peut être écris sous forme d'arbre.
 *ou que signifie cette formule.*
 
 Le sens d'une formule est donnée par sa valeur ede vérité $\in$ {$true, false$}
-
 table de vérité de p => q
 
 |  p   |  q   | : |  R   | 
