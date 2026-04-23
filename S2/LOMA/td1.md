@@ -14,13 +14,13 @@ Variables :
 
 Formules :
 
-- `(a ^ j) => z`
-- `j => a`
-- `(j v z)`
+- $(a \land j) \implies z$
+- $j \implies a$
+- $(j v z)$
 
 Table de vérité :
 
-| `a`   | `j`   | `z`   | `(a ^ j) => z`  | `j => a`  | `(j v z)`     |
+| $a$   | $j$   | $z$   | $(a \land j) \implies z$  | $j \implies a$  | $(j v z)$     |
 |-------|-------|-------|-----------------|-----------|---------------|
 | true  | true  | true  |      true       |   true    |     true      |
 | true  | false | true  |      true       |   true    |     true      |
@@ -34,7 +34,7 @@ Table de vérité :
 Ici on voit que seulemnt 3 cas peuvent satisfaire les règles
 
 
-| `a`   | `j`   | `z`   | `(a ^ j) => z`  | `j => a`  | `(j v z)`     |
+| $a$   | $j$   | $z$   | $(a \land j) \implies z$  | $j \implies a$  | $(j v z)$     |
 |-------|-------|-------|-----------------|-----------|---------------|
 | true  | true  | true  |      true       |   true    |     true      |
 | true  | false | true  |      true       |   true    |     true      |
@@ -63,7 +63,7 @@ Comme alors $v(j) = true$ alors selon la règle $f2$, $v(a) = true$
 Mais si $v(a)$ est vrai ! Alors selon $f_1$ $v(z) = true$ ! Mais on as supposé qu'elle est fausse.
 - Impossible ! Il ya une contradiction.
 
-Donc comme on as provué que $\not v(z)$ est une contradiction alors, $v(z)$ est toujours vrai.
+Donc comme on as provué que $\lnot  v(z)$ est une contradiction alors, $v(z)$ est toujours vrai.
 
 ## Exercice 2
 
@@ -84,12 +84,12 @@ Variables :
 
 Formule : 
 
-- $a_1$ : $\note e => o$
-- $a_2$ : $k \or \not o$
-- $a_3$ : $m ^ \not d$
-- $a_4$ : $(e => d) ^ (d => e)$
-- $a_5$ : $k => e ^ m $
-- $a_6$ : $e => k$
+- $a_1$ : $\lnot  e \implies o$
+- $a_2$ : $k \lor  \lnot  o$
+- $a_3$ : $m \land \lnot  d$
+- $a_4$ : $(e \implies d) \land (d \implies e)$
+- $a_5$ : $k \implies e \land m$
+- $a_6$ : $e \implies k$
 
 Démonstration :
 
@@ -100,6 +100,30 @@ Le but est de démontrer que ces règles ne sont pas satifaisable simultanément
 On va supposer qu'il existe un membre qui peut respecter toutes ces règles simultanément.
 
 
-Supposons que v existe $[ a_i ] = true pour tout H_i$
+Supposons que v existe $[ a_i ]$ = true pour tout $H_i$
 
 
+#### Code Minisat
+
+```
+c e = 1
+c o = 2
+c k = 3
+c m = 4
+c d = 5
+c
+p cnf 5 9
+1 2  0
+3 -2 0
+4    0
+-5   0
+-1 5 0
+-5 1 0
+-3 1 0
+-3 4 0
+-1 3 0
+```
+
+```
+UNSAT !!
+```

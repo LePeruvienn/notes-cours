@@ -32,8 +32,8 @@ Il pleut **ou** j'ai une voiture
 
 **Comment écrire une formule de la logique des propositions ? (syntaxe)**
 
-$\up$ : Toujours vrai
-$\bottom$ : Toujours faux
+$\top$ : Toujours vrai
+$\perp$ : Toujours faux
 ...
 
 
@@ -56,7 +56,7 @@ Toute formule peut être écris sous forme d'arbre.
 *ou que signifie cette formule.*
 
 Le sens d'une formule est donnée par sa valeur ede vérité $\in$ {$true, false$}
-table de vérité de p => q
+table de vérité de $p \implies q$
 
 |  p   |  q   | : |  R   | 
 |------|------|---|------|
@@ -69,9 +69,9 @@ table de vérité de p => q
 On note $[F]_v$ la valeur de la vérité de la forume $F$ selon l'assignation $v$. Elle est définit par
 
 - Si $p$ est une varaible alors $[p]_v = v(p)$
-- $[ \bottom ] = false$
+- $[ \perp ] = false$
 - $[ \top ] = true$
-- $[ \not F ] = false$ si $[F]_v = true$ et $true$ sub $[F]_v = false$
+- $[ \lnot F ] = false$ si $[F]_v = true$ et $true$ sub $[F]_v = false$
 
 *Les autres tables de vérité pour tout les signes*
 - ...
@@ -87,17 +87,17 @@ Ce qui est chiant avec ça c'est que du coup on doit alors définir **tout les c
 Une formule est **satisfaisable** c'est quand **on peut trouver une assignation** tel que elle soit **vrai**.
 - Exemple: un puzzle est good si il est solvable !
 
-On écris alors $v |= F$ c'est à dire que la varaible $v$ permet de satisfaire la formule $F$.
+On écris alors $v \models F$ c'est à dire que la varaible $v$ permet de satisfaire la formule $F$.
 
 
 Une **tautologie** est valide si elle **est vrai pour toute assignation**.
-- Exemple $\not p \or p$
+- Exemple $\lnot p \lor p$
 
 
 $F$ est une contradiction si elle n'est **satisfaite pour aucune assignation**.
 
 **Théroème**
-- $F£ est une contradiction si $\not F$ une tautologie !
+- $F$ est une contradiction si $\lnot F$ une tautologie !
 
 
 Rappel :
@@ -106,9 +106,9 @@ Rappel :
 - $v$ est une varaible;
 
 
-Si $\sigma$ est un **ensemble de formule** et $v$ une assignation, on dit que **$v$ satisfait $\sigma (v |= \sigma)$ si $v |= F$ pour toute formule** $F$ de $\sigma$.
+Si $\sigma$ est un **ensemble de formule** et $v$ une assignation, on dit que **$v$ satisfait $\sigma (v \models \sigma)$ si $v \models F$ pour toute formule** $F$ de $\sigma$.
 
-Une formule $F$ est une **conséquence sémantique** d'une ensemble de formule $\sigma$ : $\sigma |= F$ si toute assiangation $v$ qui satisfait $\sigma$ satisfait aussi $F$.
+Une formule $F$ est une **conséquence sémantique** d'une ensemble de formule $\sigma$ : $\sigma \models F$ si toute assiangation $v$ qui satisfait $\sigma$ satisfait aussi $F$.
 
 - On pourra alors en déduire que $\sigma$ se déduit par $F$ !
 
@@ -134,27 +134,27 @@ D'abord on trouve les varaibles :
 
 Ensuite nos formules :
 
-- $f_1: m \or j$
-- $f_2: m => j$
+- $f_1: m \lor j$
+- $f_2: m \implies j$
 
 Après on veut vérifier de son raisonement,
 
 Cela reviens alors de vérifier que $j$ est une conséquence sémantique
 
-- {$m \or j, m=> j$} $|= j$
+- {$m \lor j, m \implies j$} $\models j$
 
 Il faut alors que $f_1$ soit vrai et $f_2$ soit vrai aussi.
 
 On dresse alors la table de vérité :
 
-| m | j | m v j | m => j |
+| $m$ | $j$ | $m v j$ | $m \implies j$ |
 |---|---|-------|--------|
 | true | **true** | **true** | **true** |
 | false | **true** | **true** | **true** |
 | true | false | true | *false* |
 | false | false | *false* | true |
 
-On cherche seulement les lignes ou `m v j` et `m => j` sont vrai ! (car il faut que les deux forume soit vrai)
+On cherche seulement les lignes ou $m \lor j$ et $m \implies j$ sont vrai ! (car il faut que les deux forume soit vrai)
 
 Et dans ces cas alors alors on voit bien que j est toujours vrai !
 
@@ -178,15 +178,15 @@ Garanti coute pas beaucoup d'élexir, marche bien avec les deck 3.3 cochon ballo
 **Thorème 1.** (*2 élexir*)
 Soit $\sigma$ = {$F_1, \dots F_n$}. Posons $H_n = F_1 ^ \dots F_n$. Les 3 formulations sont équivalentes.
 
-1. $\sigma$ |= $F$
-2. $H_n => F$ est valide
-3. $H_n ^ \not F$ est infaisable (contradiction)
+1. $\sigma \models F$
+2. $H_n \implies F$ est valide
+3. $H_n ^ \lnot F$ est infaisable (contradiction)
 
 **Thorème 2.** (*1 élixir*)
-$\sigma |= F => G$ si et seulemnt si $\sigma, F |= G$
+$\sigma \models F \implies G$ si et seulemnt si $\sigma, F \models G$
 
 **Théorème 3.** (*0 élexir* BROKEN 🤯)
-$\sigma |= F$ si et seulement si $\sigma, F \not F$ est une ensemble contradictoire.
+$\sigma \models F$ si et seulement si $\sigma, F \lnot F$ est une ensemble contradictoire.
 
 ## Equivalences
 
