@@ -14,6 +14,13 @@ Cycle qui passe une fois au plus par un sommet
 **Notation vectorielle**
 LEs arcs d'un grpahe étant numoroté de 1 à $m$, on peut faire correspondre à tout cycle à $m$-uplet (un "vecteur") composé de $-1$, $1$ et $0$ de la manière suivante :
 
+- On prend notre cycle : $(abc)$ *(Le sens est important !!!)*
+- Puis on regarde toutes les arrête qui sont dans le cycle, et si elles sont dans le sens de la notation du cycle (donc ici de $a \rightarrow b$ pour le premier), alors +1 si par contre l'arête est dans le mauvais sens (donc de $a \leftarrow b$) alors c'est -1 !!!
+- Pour le reste des arrêtes qui sont pas dans le cycle on met 0 !
+
+**REMARQUE** :
+Le sens est important : $\gamma(abca) = - \gamma(cbac)$ !!
+
 ### Calcul
 
 Depuis notre graphe on créer un **sous-graphe connexe** qui est un **arbre**
