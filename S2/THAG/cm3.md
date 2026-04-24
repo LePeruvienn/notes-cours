@@ -127,6 +127,11 @@ En fait c'est les plus petit graphe qui ne sont pas planaire, donc :
 Pour savoir si un graphe est planaire il faut regarder **si le graphe contient un $K_{3,3}$ ou un $K_5$** si c'est le cas il est **pas planaire** 😢
 
 
+**Formule d'Euler**
+
+Si $a > 3 \times s - 6$ avec $a$ le nombre d'arrête et $s$ le nombre de sommet, alors il n'est pas planaire.
+
+
 ## Faces
 
 Région du plan limitée par des arrees dont l'esnembe des consitue la frontiére + face infinie.
