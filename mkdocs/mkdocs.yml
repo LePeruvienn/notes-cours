@@ -2,7 +2,7 @@ site_name: Mes Notes
 site_url: https://leperuvienn.github.io/notes-cours/
 
 docs_dir: ..
-site_dir: ../site
+site_dir: ../../site
 
 exclude_docs:
   mkdocs/
