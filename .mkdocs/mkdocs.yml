@@ -15,6 +15,7 @@ theme:
   logo: ./icon.webp
   features:
     - content.action.edit
+    - content.code.copy
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
