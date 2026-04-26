@@ -1,3 +1,6 @@
+---
+title: CM6
+---
 
 - Tri par dénombrement
 - Tri rapide

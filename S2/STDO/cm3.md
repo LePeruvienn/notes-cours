@@ -1,3 +1,6 @@
+---
+title: CM3
+---
 
 Arborésence = arbre orienté qui possède une racine
 Racine = un sommet r tel que pur tout sommet x du graphe, il existe un chemin de r à x

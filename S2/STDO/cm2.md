@@ -1,3 +1,7 @@
+---
+title: CM2
+---
+
 # Les piles
 
 Une pile est une structure du données ou les insertion se font toujours du même côté !

@@ -1,3 +1,7 @@
+---
+title: CM1
+---
+
 Lien vers les cours (le lien marche pas sur le réseau de l'école):
 
 ```

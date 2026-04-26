@@ -1,3 +1,7 @@
+---
+title: CM2
+---
+
 # Modèle Logique de Données (MLD)
 
 - C'est en fait un modèle qui se rapporche plus du SQL qu'on va implémenter ensuite

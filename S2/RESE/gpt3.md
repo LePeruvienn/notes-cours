@@ -1,3 +1,8 @@
+---
+title: GPT3
+---
+
+
 Parfait 😎, voici **la fiche 4 ultra visuelle et synthétique**, prête pour révision ultra-rapide, qui combine IP privées/publiques, routage, sous-réseaux, TCP/UDP et WAN.
 
 ---

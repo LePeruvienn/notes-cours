@@ -1,3 +1,7 @@
+---
+title: TD2
+---
+
 **A priori**
 1) Idée
 2) Argument

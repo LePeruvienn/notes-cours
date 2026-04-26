@@ -1,3 +1,7 @@
+---
+title: CM1
+---
+
 # Logique propositionnelle classique
 
 Les 3 volets de la logique :

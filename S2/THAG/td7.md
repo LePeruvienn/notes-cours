@@ -1,3 +1,7 @@
+---
+title: TD7
+---
+
 # TD7
 
 ## Exercice 1

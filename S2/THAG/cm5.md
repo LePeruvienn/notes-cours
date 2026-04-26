@@ -1,3 +1,6 @@
+---
+title: CM5
+---
 
 *c.f le cm2*
 ## *Fonction de Grundy*

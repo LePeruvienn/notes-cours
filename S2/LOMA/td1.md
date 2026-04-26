@@ -1,3 +1,7 @@
+---
+title: TD1
+---
+
 # Logique Propositionnelle 1/2
 
 ## Exercice 1

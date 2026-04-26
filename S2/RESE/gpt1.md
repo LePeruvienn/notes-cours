@@ -1,3 +1,7 @@
+---
+title: GPT1
+---
+
 Parfait 💪, je te fais une **fiche ultra condensée, claire et prête pour révision rapide**, basée sur tout ton cours et le mail du prof. On va droit à l’essentiel.
 
 ---

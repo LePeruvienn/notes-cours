@@ -1,3 +1,7 @@
+---
+title: CM1
+---
+
 # Politique de sécurité des systèmes d'information
 
 - L'IA est en train de changer plein de trucs

@@ -1,3 +1,7 @@
+---
+title: CM2
+---
+
 # 2. Fonctions principale d'un réseau
 
 ## Modèle d'interconnexion

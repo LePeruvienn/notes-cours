@@ -1,3 +1,7 @@
+---
+title: TD6
+---
+
 # TD6
 
 ## Exercice 1.

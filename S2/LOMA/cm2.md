@@ -1,3 +1,7 @@
+---
+title: CM2
+---
+
 ## Mise en form normale conjonctive (FNC / CNF en anglais)
 
 *FNC = Forme Normal Conjonctive*

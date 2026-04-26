@@ -1,3 +1,7 @@
+---
+title: CM2
+---
+
 # PARTIE 2. Graphe et sous-graphe particuliers
 
 ## Ensemble Stable

@@ -2,8 +2,6 @@
 title: README
 ---
 
-![fipaaa](icon.webp)
-
 # Notes cours ensIIE FISA
 
 Je met toutes les notes que je prend ici comme ça je peut les récupérer d'où je veut, et aussi ça me pousse à venir en cours 🤓
@@ -12,3 +10,7 @@ Je met toutes les notes que je prend ici comme ça je peut les récupérer d'où
 
 
 Sinon vous pouvez toujours allez check [FEURnite](https://github.com/LePeruvienn/FEURnite)
+
+---
+
+![fipaaa](icon.webp)

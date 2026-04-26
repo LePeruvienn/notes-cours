@@ -1,3 +1,7 @@
+---
+title: GPT2
+---
+
 Parfait 😎, je vais te faire **une deuxième fiche condensée**, avec d’autres points essentiels tirés de ton cours, pour compléter la première. On va se concentrer sur **WAN/LAN, topologies, interconnexion, transport d’information**, bref tout ce que ton prof a insisté.
 
 ---

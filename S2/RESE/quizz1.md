@@ -1,3 +1,7 @@
+---
+title: Quizz
+---
+
 # Exercice 1
 
 ## A. Type de réseaux

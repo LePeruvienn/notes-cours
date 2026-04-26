@@ -1,3 +1,7 @@
+---
+title: CM1
+---
+
 # I. Généralités et définitions
 
 ## La notion de graph (un peu d'histoire)
