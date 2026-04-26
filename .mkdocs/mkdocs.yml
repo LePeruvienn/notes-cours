@@ -4,8 +4,29 @@ site_url: https://leperuvienn.github.io/notes-cours/
 docs_dir: ..
 site_dir: ../../notes-cours-web
 
+repo_url: https://github.com/leperuvienn/notes-cours
+repo_name: notes-cours
+
+edit_uri: edit/main/
+
 theme:
   name: material
+  favicon: ./icon.webp
+  logo: ./icon.webp
+  features:
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Mode sombre
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Mode clair
 
 plugins:
   - search
