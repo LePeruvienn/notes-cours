@@ -58,7 +58,7 @@ source .env/bin/activate
 
 # Installing requierments
 echo "Installing requierments ..."
-pip install -r requierments.txt
+pip install -r requirements.txt
 
 echo "READY! Building website"
 
