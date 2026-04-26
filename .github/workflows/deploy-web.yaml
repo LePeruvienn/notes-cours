@@ -22,9 +22,7 @@ jobs:
           python-version: 3.11
 
       - name: Install dependencies
-        run: |
-          pip install mkdocs-material pymdown-extensions mkdocs-mermaid2-plugin
+        run: pip install -r .mkdocs/requirements.txt
 
       - name: Deploy site
-        run: |
-          mkdocs gh-deploy --config-file mkdocs/mkdocs.yml --force
+        run: mkdocs gh-deploy --config-file .mkdocs/mkdocs.yml --force

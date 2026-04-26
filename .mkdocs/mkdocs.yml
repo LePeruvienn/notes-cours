@@ -1,11 +1,8 @@
-site_name: Mes Notes
+site_name: Notes cours ENSIIE FISA
 site_url: https://leperuvienn.github.io/notes-cours/
 
 docs_dir: ..
-site_dir: ../../site
-
-exclude_docs:
-  mkdocs/
+site_dir: ../../notes-cours-web
 
 theme:
   name: material
@@ -17,8 +14,11 @@ plugins:
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.superfences
-
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
