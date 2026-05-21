@@ -1,3 +1,27 @@
+---
+title: CM1
+---
+
+# Lois usuelles
+
+## Loi binomiale
+
+Une loi binomiale est définis avec $X$ suit une loi $(n,p)$ avec $n$ le nombre de répétition et $p$ la probabilité de la loi de Bernuilli.
+
+$$
+P(X = k ) = C^k_n \times p^k \times (1 - p)^{n - k}
+$$
+
+avec $C^k_n = \frac{n!}{k!(n -k)!}$
+
+Calcul espérance et variance 
+
+$$
+E(X) = n \times p \ \ , \ Var(X) = np \times (1 - p)
+$$
+
+
+
 # Lois Continue
 
 ## Loi uniforme
