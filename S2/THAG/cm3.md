@@ -102,14 +102,29 @@ Exemple:
 
 **Alogrithme pour trouver une base de cocycle** :
 
-1) On transforme notre graphe en arbre.
-2) Pour chaque arrête on la retire, afin de créer 2 composante distincte.
-3) On calcul le cocycle d'une des deux composante, dans le graphe quelquconque.
-4) On rajoute le vecteur de cocycle dans notre base (et on rajoute l'arc qu'on avais retirer).
+1. On transforme notre graphe en arbre.
+
+2. Pour chaque arrête on la retire, afin de créer 2 composante distincte.
+
+3. On calcul le cocycle d'une des deux composante, dans le graphe quelquconque.
+
+4. On rajoute le vecteur de cocycle dans notre base (et on rajoute l'arc qu'on avais retirer).
 
 On répête ces étapes pour toutes arrêtes.
 
+#### Calcul du vecteur Cocycle
+
+On prend deux ensemble de sommet $A$ et $B$.
+
+- **+1** : Si l'arête sort de $A$ pour aller vers $B$.
+- **-1** : Si l'arête entre dans $A$ en venant de $B$.
+- **0** : Si l'arête ne traverse pas la coupure (elle reste à l'intérieur de $A$ ou à l'intérieur de $B$).
+
 **Rappel** : Le vecteur cocyle c'est pour un sommet, toutes les arrêtes à la suite avec avec leurs nombre cyclomatique (+1, -1 ou 0) Ex: $(1, 0, -1)$.
+
+#### Nombre d'élément dans une base de cocycle
+
+- $n − p$ ($n$ nb nœuds, $p$ nb comp connexes)
 
 ## Planarité
 
@@ -187,7 +202,7 @@ Si $G$ est un graphe simple planair connexe contenant au moins 1 face finie alor
 
 Une graphe est planair seulement et seulement si il ne contient pas un sous-graphe partiel 
 
-## Minieur d'un graphe
+## Mineur d'un graphe
 
 Un graphe $H$ est mineur si il peut être obtenu en faisant les 3 opération suivante un certain nombre de fois :
 
