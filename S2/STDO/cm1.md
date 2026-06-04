@@ -14,6 +14,12 @@ ou
 https://cnam-my.sharepoint.com/personal/eric_soutil_lecnam_net/_layouts/15/Doc.aspx?sourcedoc={a94bdec3-fad0-430f-aa7e-a3af6fb86d19}&action=view&wd=target%28Nouvelle%20section%201.one%7C44889ca2-52de-47dc-8548-7808d0511bd0%2FLiens%20utiles%7C5afbeebd-bfe3-479e-8815-db37046f6952%2F%29&wdorigin=NavigationUrl
 ```
 
+ou 
+
+```
+https://cnam-my.sharepoint.com/personal/eric_soutil_lecnam_net/_layouts/15/Doc.aspx?sourcedoc={a94bdec3-fad0-430f-aa7e-a3af6fb86d19}&action=view&wd=target%28Liens%20utiles.one%7C44889ca2-52de-47dc-8548-7808d0511bd0%2FLiens%20utiles%7C5afbeebd-bfe3-479e-8815-db37046f6952%2F%29&wdorigin=NavigationUrl
+```
+
 Après tu clique sur `sharepoint_2526` pour avoir accès au cours
 
 Mail du prof :

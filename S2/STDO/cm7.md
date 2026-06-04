@@ -1,3 +1,7 @@
+---
+title: CM7
+---
+
 # LZ77
 
 Cette algo de compréssion marche avec 3 triplet par position : 

@@ -357,5 +357,50 @@ match x with
 
 FIltrage = expréssion comme une autre -> utilisable partout
 
+## Type inductifs
+
+Type = ensebledéfini par les constructeur
+
+```ocaml
+type entier =
+| Z           (* Avec Z qui définit le zéro *)
+| S of entier (* Son entier prédecesseur *)
+;;
+
+(* Exemple *)
+
+let mon_zero = Z ;; (* Zero *)
+let mon_un = (S Z) ;; (* Un est le successeur de zéro *)
+let mon_deux = S (S Z) (* Deux est le successeur de un *) ;;
+...
+```
+
+Ici les champs de la "struct" sont des sortes d'enum (donc des champs mais qui ne sont pas lié à une valeur).
+
+Si on veut les lié à une valeur on rajouter alors `of` ici par exemple `of int` pour qui que cette valeur peut prendre un `entier` ou une liste d'`entier`.
+
+Exemple de transformation de notre type `entier` vers un `int` système.
+
+```ocaml
+let rec to_int fun e ->
+    match e with
+    | Z -> 0
+    | S e -> 
+        let v = to_int e in
+        1 + v
+;;
+```
+
+Exemple inverse `int` système vers notre `entier`
+
+```ocaml
+let rec from_int fun n ->
+    if n = 0
+    then Z
+    else
+        let v = from_int (n - 1) in 
+        S v
+;;
+```
 
 

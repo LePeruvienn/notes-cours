@@ -1,3 +1,7 @@
+---
+title: CM6
+---
+
 ## Couplage
 
 **Couplage d'un graphe $G$** :  Ensemble d'arête $G$ tel que 2 arrêtes quelcuonques sont non adjacentes.

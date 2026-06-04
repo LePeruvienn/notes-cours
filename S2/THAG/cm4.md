@@ -86,6 +86,8 @@ Cette alogrithme ne permet pas de trouver tout le temps la solution optimal, c'e
 
 ### Reliement-contraction
 
+On colorie tout les sommets de la même couleurs
+
 - Pour colorier un grpahe complet (une clique) contenant $n$ sommets il faut $n$ couleurs.
 
 - On prend 2 sommets $a$ et $b$ non reliés (en fait ici on créer un cas par rapport à ce qu'on choisi)
