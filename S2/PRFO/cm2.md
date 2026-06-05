@@ -1,3 +1,7 @@
+---
+title: CM2
+---
+
 # Noyau (pas très fonctionnel)
 
 ## Exceptions
@@ -121,11 +125,5 @@ let rec fold_right = fun f l acc ->
         acc' = fold_right f l' acc in
     f e' acc'
 ```
-
-## Zipper
-
-Listes : ajout au milleur + persistance => copie inutiles
-
-Solution : avoir un point de vue **local** (cf. liste doublement chainées)
 
 
