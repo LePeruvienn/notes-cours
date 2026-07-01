@@ -117,7 +117,66 @@ On pourrais essayer de mettre tout en absolu, mais en fait ça va pas marcher to
 
 Il yaura toujours des soucis et tout c'est chiant
 
+**L'Algorithme de Djikstra n'est pas Bidouillable**.
+
 
 ## Algorithme de Bellman-Ford
 
-Algorithme de Bellman-Ford aussi appelé Bellman-Ford-Moore1
+Algorithme de Bellman-Ford aussi appelé Bellman-Ford-Moore1.
+
+
+Il permet de calculer le plus court chemin dans un graphe (comme Djikstra) mais il peut prendre en compte **les arcs négatif** ! Ce qui Djikstra ne pouvais pas.
+
+Mais il ya des cas on ne peut toujours pas, par exemple lorsqu'il ya un **cycle à arcs négatif**.
+
+Exemple :
+
+```mermaid
+flowchart LR
+
+1 ---|-5| 2
+1 ---|2| 3
+2 ---|-5| 4
+3 ---|2| 4
+```
+
+Ici par exemple on peut juste faire le tour du coup dans le cycle à l'infini.
+
+L'Algorithme de Bellman-Ford permet alors de **détecter les cycles négatifs**.
+
+
+### Exemple
+
+
+```mermaid
+flowchart LR
+
+A -->|6| B
+A -->|4| C
+A -->|5| D
+B -->|-1| E
+C -->|-2| B
+C -->|3| E
+D -->|-2| C
+D -->|-1| F
+E -->|3| F
+```
+
+Il faut check toutes les arrête et pas faire un parcours !!!
+
+
+On fait une liste de toutes les arrêtes dans l'ordre qu'on veut.
+
+IL FAUT LES PARCOURIR LES ARRETE UNE ET UNE SEUL FOIS A CHAQUE ITERATION !
+
+**SOUVIENS TOI DE PEXEP**
+
+- Il ya un tableau avec les meilleurs distance pour chaque sommets.
+
+- Il y a un tableau avec le dernier sommet on était passé ($\pi[v]$)
+
+### Algorithme Floyd-Warshall
+
+En gros on fait tout les cas possibles dans une matrices.
+
+
