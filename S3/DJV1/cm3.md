@@ -1,5 +1,7 @@
 # Introduction à Unity
 
+!!! **UNITY 6.3 LTS** !!!
+
 ## Architechture orienté composant
 
 C'est le fait d'avoir un objet, aucun on lui attache des "composant" pour lui donner un "rôle dans la scène".
