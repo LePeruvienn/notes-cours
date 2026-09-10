@@ -78,10 +78,51 @@ Pour faire face à la complexité il eest recommandé de :
 
 #### Qu'est ce que c'est des vacances ?
 
+- Les vacances, se définissent par les congés dans le monde actuel du travail en général ou de l'éducation en particulier, et désigne le plus souvent une période pendant laquelle une personne cesse ses activités habituelles (souvente le travail)
+
+*Wikipédia*
+
+C'est souvent une période utiliser pour se reposer ou pour atteindre un objectif particulier (amusement, découverte, apprentissage).
+
+Pour certaine personne les vacances sont une période très importante, qui nécessite particulière :
+
+- Définition d'un budget
+- Organisation de l'itinéraire (début et fin et vacances)
+- Réserver les activité
+- Resigner sur les lieux visité
+- Préparer la valise
+
+Selon Emma Sparks
 
 ### Qu'est ce que c'est un projet ?
 
+Un projet se définit par plusieurs caractéristique :
+
+**Objectif**
+- Clair
+- Précis
+- Evolutif
+
+**Unique**
+- Unique une tache répétable n'as pas besoin de projet
+
+**Limité**
+- En terme de délais
+- ou en terme de ressources (financière ou autres)
+
+**Complexe**
+- Dimension subjective
+- Piste d'évaluation / mesurable
 
 ### Pourquoi les vacances peuvent être un projet ?
 
+En comparant les caractéristique d'un projet et la a mise en place des vacances d'Emma Spark, nous pouvont voir une corrélation entre les deux.
 
+Nous pouvons ici faire le liens sur :
+- Définition d'un budget
+- Organisation de l'itinéraire (début et fin et vacances)
+- Réserver les activité
+- Resigner sur les lieux visité
+- Préparer la valise
+
+Nous pensons alors que oui les vacances peuvent être un projet
