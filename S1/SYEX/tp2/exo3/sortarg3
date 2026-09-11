@@ -1,0 +1,6 @@
+#!/bin/sh
+
+for current_arg in $@
+do
+
+done

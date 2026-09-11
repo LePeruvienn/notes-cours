@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# tr permet de remplacer un élément par un autre
+
+echo -n "$@" | tr " " "\n" | sort - | tr "\n" " " | xargs echo 
