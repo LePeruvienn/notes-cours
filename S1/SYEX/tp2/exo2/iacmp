@@ -1,0 +1,23 @@
+#!/bin/sh
+
+# export permet de garder une variable pour tout le contexte du shell
+export LD_LIBRARY_PATH=/pub/FISE_OSSE11/shell/iacmp/lib
+export IacmpDir=/pub/FISE_OSSE11/shell/iacmp
+
+# $@ récupère tous les arguments (en retirant $0 qui correspond à l'exécutable/nom du script)
+# on met des "" autour pour qu'ils soient passés correctement (un problème qui pourrait arriver)
+# c'est si on lui fait passer une chaine de caractère avec des espaces : sans utiliser de " ", chaque
+# espace délimiterait les arguments
+#
+# Dans notre cas, "chat roux" "chat blanc" "chat noir" serait affiché
+# > blanc
+# > chat
+# > chat
+# > chat
+# > noir
+# > roux
+# alors que le résultat attendu est
+# > chat blanc
+# > chat noir
+# > chat roux
+/pub/FISE_OSSE11/shell/iacmp/iacmp "$@"
