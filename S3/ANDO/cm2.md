@@ -229,6 +229,10 @@ Quel intérêt ?
 
 Il sert à apprécier la dispersion de $X$, de façon absolue ou bien par comparaison avec une autre variable quantitative à condition que cette derni_re soit exprimé dans la mêe unité que $X$. En effet les valeurs de $Q_1$ et $Q_3$ délimitent une plage au sein de laquelle 50% des valeurs de $X£ son cencertrés. plus El grand, plus $X$ est dispersée.
 
+**Notes de Maxence 🤓☝️** \
+$$
+EIQ = q_{n, 3/4} - q_{n, 1/4}
+$$
 
 ## Boxplot ou boite à moustage
 
