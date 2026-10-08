@@ -35,3 +35,11 @@ On as des technologies qui stockages es données sous format `.json` :
 - ElasticSearch (*MongoDB + API REST*)
 
 
+## Conslutions
+
+quand on parle de base de données NoSQL, on parle de : 
+- Base de données clé valeurs
+- Base de données arbres
+- Base de données documentaires
+
+
