@@ -1,0 +1,27 @@
+#!/bin/sh
+
+# pas pu tester, read ne fonctionne pas correctement sur mon PC pour une raison inconnue, 
+# mais en théorie la correction de l'exercice c'est ça
+
+# boucle for
+# vous pouvez en voir la documentation avec 
+# $ sh -c "help for"
+
+for i in "$@"; do
+  # rappel: > écrase le fichier, >> ajoute à la suite
+  echo "$i" >> /tmp/1 
+done
+
+sort /tmp/1 > /tmp/2
+
+# < permet d'utiliser un fichier comme stdin
+#read < /tmp/2
+#echo -n "$REPLY"
+
+read sorted < /tmp/2
+
+echo -n "$sorted"
+
+# on nettoie derrière nous
+rm /tmp/1 /tmp/2
+
