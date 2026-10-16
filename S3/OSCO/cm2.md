@@ -252,9 +252,9 @@ A = \begin{pmatrix}
     -1 & 2 & -1 \\
     0 & -1 & 2
 \end{pmatrix}
-$$
 
-$$
+\\
+
 x = \begin{pmatrix}
     x_1 \\ x_2 \\ x_3
 \end{pmatrix}
@@ -262,9 +262,9 @@ x = \begin{pmatrix}
 et \ x^T = \begin{pmatrix}
     x_1 & x_2 & x_3
 \end{pmatrix}
-$$
 
-$$
+\\
+
 x^T Ax = \begin{pmatrix}
     x_1 & x_2 & x_3
 \end{pmatrix} \times
@@ -276,6 +276,9 @@ x^T Ax = \begin{pmatrix}
 \begin{pmatrix}
     x_1 \\ x_2 \\ x_3
 \end{pmatrix} \\
+
+\\
+
 = 2x^2_1 - 2x_1x_2 - 2x_2x_3 + 2x^2_3 \\
 = x^2_1 + x^2_3 + (x_1 - x_2)^2
 $$
