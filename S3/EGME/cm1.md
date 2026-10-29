@@ -137,3 +137,77 @@ Le prix se forme et évolue sous l'effet de la confrontation entre l'offre et la
 L'économie n'est pas quelque chose de statique qui se régule de lui même ou grâce à des intervations externe (de l'état, entreprise ou autres).
 
 
+## Indcateurs économiques
+
+### Calcul du PIB
+
+$$
+PIB = C + I + G + (X - M)
+$$
+
+Avec :
+- $C$ (Consommation)
+- $I$ (Investissement)
+- $G$ ()
+
+### Méthode par les revenues (la répartition)
+
+```
+PIB = Rémunéartion des Salariées + Excédent Brut d'Explo
+```
+
+### Indice des prix à la consommation (IPC)
+
+Il mesure la moyenne des prix des biens et services consommé par les ménages résidant sur un térritoire donnée.
+
+
+Il est utiliser our mesure l'inflation ou la déflation, il as des conséquences sur :
+- La révalorisation du SMIC
+- La révision des loyers
+
+**Il est pas basé sur tout les produits existant**, il est basé sur le "*panier de la ménagère*".
+
+- Quand il diminue : inflation
+- Quand il augmente : déflation
+
+
+### Taux de chômage
+
+Il mesure la part de chomeur dans la population active.
+
+**Il évalue la santé du marché du travail.**
+
+- Un taux faible traduit que c'est cool, l'inverse c'est la merde.
+
+
+### Taux d'intérêt des directeurs
+
+Le côut auquel les banques comerciales peuvent emprunter de l'argent auquel de la banque centrale.
+
+Il mesure un peu le "*prix de l'argent*"
+
+Il est surtout utilisé par les banques pour agir sur l'IPC.
+
+- **Quand il est haut** : Rend le crédit plus chère pour les ménages et entreprise. Ce qui ralenti la demande et l'inflation.
+
+- **Quand il est bas** : Rend le crédit moins chère ce qui stimule l'investissement et la consommation.
+
+
+### Balance commerciale
+
+```
+Balance commerciale = Exporitation des biens - importations des biens
+```
+
+C'est le reflet de la compétitivité industrielle d'un pays par rapport au reste du monde.
+
+
+### Ratio `dette public / PIB`
+
+Il permet de voir si on est vraiment riche ou pas.
+
+Si la valeur est supérieur à 100%, alors ça signifie que la détee dépasse la richess créer en une année.
+
+Plus le ration est élevé, plus il indique une spirale d'endettement.
+
+
