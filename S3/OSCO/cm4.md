@@ -115,3 +115,24 @@ Si une fonction $f : R^d \rightarrow R$ est **2 fois différientiable** (*tu peu
 (J'espère que mes notes vous seront utiles la team 🤙)
 
 
+## Théorème des moindre carrée
+
+En gros ça permet de tracer une fonction affine qui traverse un nuage de points.
+
+Le but est de déterminé cette fonction affine, Donc par définition on as :
+
+$$
+M(a, b)  = \sum^n_{i = 1} (y_i - ax_i - b)^2
+$$
+
+Quand on veut trouver $(\bar a, \bar b)$ tel que
+
+$$
+M(\bar a, \bar b) = min_{(a,b) \in R} \ M(a, b)
+$$
+
+On peut les calculer en faisant :
+
+$$
+\bar a = \frac{Cov(x,y)}{Var(x)} \ \ \ et \ \ \ \bar b = \bar y - \bar a \bar x
+$$
