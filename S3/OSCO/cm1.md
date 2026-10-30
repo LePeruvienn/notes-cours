@@ -386,6 +386,7 @@ $$
 
 $x^2_1 + x^2_3 + (x_1 - x_2)^2$ toujours $> 0$ dans $R$ car c'est une somme de carré.
 
-Donc la propriété est validé
 
+#### Matrice symétrique.
 
+Si une matrice est de taille $n \times n$ et elle est symétrique, alors il suffit de vérifié que tout les déterminant de la matrice $A^{(n)}$

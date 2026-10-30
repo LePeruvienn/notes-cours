@@ -86,6 +86,8 @@ $$
 
 Ce qui nous donne la matraice héssienne $\nabla^2 f(x)$ :
 
+> En fait il faut que tout les détermiant de l'odre mineur de la matrice soit supérieur à 0. Donc ici il manque faire $A^{(1)}$ car ici on as fait $A^{(2)}$
+
 $$
 \nabla^2 f(x) = \begin{pmatrix} 
     1200x_1^2 - 400x_1 + 2 & -400x_1 \\
