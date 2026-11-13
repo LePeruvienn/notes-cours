@@ -27,12 +27,12 @@ Pour l'opération ajouter:
 - Conteneur, clef, valeur
 
 **Etape 3** Concevoir les partition / classes d'équivalences :
-- Paramètres :
+- Paramètres (caractéristiques) :
   - Clef
   - Valeur
   - Conteneur dans lequel ajouté
 - Domaine : n'importe quelle objet JAVA.
-- Caractéristiques : 
+- Caractéristiques (entrée possibles) :
   - Clef
     - B1 = Clef null
     - B2 = Clef non null et unique
@@ -50,7 +50,6 @@ Pour l'opération ajouter:
 - B = [ B1, B2 ]
 - C = [ C1, C2, C3, C4, C5 ]
 
-
 **Tests aux limites**
 - b4 = conteneur avec une place (taille > 2)
 - b5 = conteneur avec 1 élemnt (taille > 2)
@@ -61,3 +60,6 @@ Pour l'opération ajouter:
 - A2 B2 C3
 - A3 B1 C4
 - A2 B1 C5
+
+
+
